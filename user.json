@@ -1,0 +1,12 @@
+"userDetails": {
+		"userId": "1245454",
+		"userName": "alpha",
+		"userAge": "22",
+		"userTitle": "Full Stack Developer | Android Developer",
+		"userCourseDetails": {
+			"course": "B.tech",
+			"branch": "CSE",
+			"year": "3"
+		},
+		"userProfilePicture": "https://image.freepik.com/free-vector/sunset-mountains-with-pine-forest_7993-2327.jpg"
+	}
