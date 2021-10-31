@@ -1,4 +1,5 @@
-"userDetails": {
+{
+	"userDetails": {
 		"userId": "1245454",
 		"userName": "alpha",
 		"userAge": "22",
@@ -10,3 +11,4 @@
 		},
 		"userProfilePicture": "https://image.freepik.com/free-vector/sunset-mountains-with-pine-forest_7993-2327.jpg"
 	}
+}
