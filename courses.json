@@ -6,70 +6,70 @@
  "courseName":"React",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg"
  },
  {
  "courseID":"2",
  "courseName":"Java Script",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://globalfuture.solutions/wp-content/uploads/2019/06/javascript-frameworks.jpg"
  },
  {
  "courseID":"3",
  "courseName":"Android",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://www.futuregamereleases.com/wp-content/uploads/2020/02/android-logo.png"
  },
  {
  "courseID":"4",
  "courseName":"HTML",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://fresheropenings.com/wp-content/uploads/2020/08/170427-637251494437967118-16x9html.jpg"
  },
  {
  "courseID":"5",
  "courseName":"Angular",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://www.htmlgoodies.com/wp-content/uploads/2021/07/Angular-JavaScript.png"
  },
  {
  "courseID":"6",
  "courseName":"Firebase",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://firebase.google.com/images/social.png"
  },
  {
  "courseID":"7",
  "courseName":"DSA",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg"
  },
  {
  "courseID":"8",
  "courseName":"Java",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://i0.wp.com/tuetoacademy.com/wp-content/uploads/2021/05/java.jpg"
  },
  {
  "courseID":"9",
  "courseName":"Python",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://analyticsindiamag.com/wp-content/uploads/2019/10/python-1.jpg"
  },
  {
  "courseID":"10",
  "courseName":"Css",
  "courseTotalQuestions":"100",
  "courseRating":"5",
- "courseImage":""
+ "courseImage":"https://miro.medium.com/max/2800/1*CWaj2Ni6tQp_8VIGIM46Nw.jpeg"
  }
  ]
 }
