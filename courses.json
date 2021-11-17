@@ -12,21 +12,21 @@
  "courseID":"2",
  "courseName":"Java Script",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"4",
  "courseImage":"https://repository-images.githubusercontent.com/229449376/3cfde400-5298-11ea-9f39-aab161ef8f69"
  },
  {
  "courseID":"3",
  "courseName":"Android",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"2",
  "courseImage":"https://www.futuregamereleases.com/wp-content/uploads/2020/02/android-logo.png"
  },
  {
  "courseID":"4",
  "courseName":"HTML",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"3",
  "courseImage":"https://fresheropenings.com/wp-content/uploads/2020/08/170427-637251494437967118-16x9html.jpg"
  },
  {
@@ -40,35 +40,35 @@
  "courseID":"6",
  "courseName":"Firebase",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"1",
  "courseImage":"https://firebase.google.com/images/social.png"
  },
  {
  "courseID":"7",
  "courseName":"DSA",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"4",
  "courseImage":"https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg"
  },
  {
  "courseID":"8",
  "courseName":"Java",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"3",
  "courseImage":"https://i0.wp.com/tuetoacademy.com/wp-content/uploads/2021/05/java.jpg"
  },
  {
  "courseID":"9",
  "courseName":"Python",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"4",
  "courseImage":"https://analyticsindiamag.com/wp-content/uploads/2019/10/python-1.jpg"
  },
  {
  "courseID":"10",
  "courseName":"Css",
  "courseTotalQuestions":"100",
- "courseRating":"5",
+ "courseRating":"2",
  "courseImage":"https://miro.medium.com/max/2800/1*CWaj2Ni6tQp_8VIGIM46Nw.jpeg"
  }
  ]
